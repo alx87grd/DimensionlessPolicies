@@ -11,4 +11,4 @@ The script use the <a href="https://github.com/SherbyRobotics/pyro">Pyro</a> too
   <li><a href="https://colab.research.google.com/drive/1-CSiLKiNLqq9JC3EFLqjR1fRdICI7e7M?usp=share_link">Colab page for the car example</a></li>
 </ul>
 
-[c3_dimpolicy.pdf](https://github.com/alx87grd/DimensionlessPolicies/files/14420494/c3_dimpolicy.pdf)
+![c3_dimpolicy](https://github.com/alx87grd/DimensionlessPolicies/assets/16725496/694ffbfa-8793-4014-b6c4-144b349c07a2)
