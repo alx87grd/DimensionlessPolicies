@@ -1,5 +1,5 @@
 # DimensionlessPolicies
-Source code for the article 'Dimensionless Policies Based on the Buckingham p Theorem: Is This a Good Way to Generalize Numerical Results?'
+Source code for the article 'Dimensionless Policies Based on the Buckingham pi Theorem: Is This a Good Way to Generalize Numerical Results?'
 
 Preprint available at:
 <a href="https://arxiv.org/abs/2307.15852"> Dimensionless Policies based on the Buckingham π Theorem: Is it a good way to Generalize Numerical Results?</a>
