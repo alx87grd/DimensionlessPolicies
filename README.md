@@ -1,7 +1,7 @@
 # DimensionlessPolicies
 Source code for the article:
 
-Girard, A. _Dimensionless Policies Based on the Buckingham π Theorem: Is This a Good Way to Generalize Numerical Results?_ Mathematics 2024, 12, 709. <a href="https://doi.org/10.3390/math12050709">
+Girard, A. _Dimensionless Policies Based on the Buckingham π Theorem: Is This a Good Way to Generalize Numerical Results?_ Mathematics 2024, 12, 709. <a href="https://doi.org/10.3390/math12050709">https://doi.org/10.3390/math12050709</a>
 
 Preprint available at:
 <a href="https://arxiv.org/abs/2307.15852"> Dimensionless Policies based on the Buckingham π Theorem: Is it a good way to Generalize Numerical Results?</a>
